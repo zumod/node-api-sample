@@ -1,7 +1,7 @@
 {
-  "name": "express_crash_course",
+  "name": "rest-api-sample",
   "version": "1.0.0",
-  "description": "> Files for the YouTube crash course",
+  "description": "Node REST API Sample",
   "main": "index.js",
   "scripts": {
     "start": "node index",
